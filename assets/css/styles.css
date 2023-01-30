@@ -943,6 +943,7 @@ a.block {
   .main {
     margin-top: 180px;
     max-width: 1500px;
+    margin-bottom: 380px;
   }
 
   .thanks-main {
