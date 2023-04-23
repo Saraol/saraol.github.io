@@ -517,6 +517,20 @@ a.block {
   font-weight: 500;
 }
 
+.project-link:link,
+.project-link:visited {
+  text-decoration: none;
+  color: #934954;    /* Copper Rust */
+}
+
+.project-link:hover {
+  color: #b76E79;    /* Gold Rose */
+}
+
+.project-link:active {
+  color: #934954;    /* Copper Rust */
+}
+
 
 /**** Articles ****/
 
